@@ -1,0 +1,6 @@
+[submodule "fiware-cosmos-orion-flink-connector"]
+	path = fiware-cosmos-orion-flink-connector
+	url = https://github.com/ging/fiware-cosmos-orion-flink-connector
+[submodule "fiware-cosmos-orion-spark-connector"]
+	path = fiware-cosmos-orion-spark-connector
+	url = https://github.com/ging/fiware-cosmos-orion-spark-connector
