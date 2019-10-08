@@ -38,7 +38,7 @@ context data. These tools are:
 -   [Orion-Flink Connector Streaming Examples](https://github.com/ging/fiware-cosmos-orion-flink-connector-examples)
 -   [Apache Flink Processing Engine](https://flink.apache.org/)
 -   [Orion-Spark Connector (Source and Sink)](https://github.com/ging/fiware-cosmos-orion-spark-connector)
--   [Orion-Spark Connector Streaming Examples (work in progress)](https://github.com/ging/fiware-cosmos-orion-spark-connector)
+-   [Orion-Spark Connector Streaming Examples](https://github.com/ging/fiware-cosmos-orion-spark-connector)
 -   [Apache Spark Processing Engine](https://spark.apache.org/)
 
 ## Why use Cosmos?
