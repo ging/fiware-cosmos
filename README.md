@@ -59,7 +59,8 @@ conclusions as to the state of your smart solution and bring value to your solut
 
 The following list of features are planned to be addressed in the short term, and incorporated in the next release of the product:
 
- * **NGSI-LD**: Achieve support for the NGSI Linked data format.
+ * **NGSI-LD**: Achieve support for the NGSI Linked data format for the Spark connector
+ * **Spark tutorial**: Release the Spark step-by-step tutorial.
 
 ### Medium term
 
